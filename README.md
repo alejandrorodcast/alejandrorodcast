@@ -1,11 +1,16 @@
 ## Hello! I'm Alejandro Rodriguez! 👋
+[![Español](https://img.shields.io/badge/Leer_en_Español-%23E74C3C)](README_ES.md) 
+
+### Tech Toolbox 🛠️
+- **Languages:** Python, SQL, R. 
+- **Visualization Data:** Tableau, R, Power BI (skill in progress).
+
+### Certifications 📜
+- **Tecnológico de Monterrey:** Citizen Data Scientist (in progress)
+- **Google México:** Google Data Analytics. 
+
+
 
 <!--
 **alejandrorodcast/alejandrorodcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-### tech Toolbox 🛠️
-- **Languages:** Python, SQL, JavaScript, Ruby
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface, SpaCy
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, Search
