@@ -10,7 +10,7 @@ Check out my repositories for projects showcasing these skills, and feel free to
 
 - **Email**: [alejandrorodriguezcastro@gmail.com](alejandrorodriguezcastro@gmail.com)
 - **LinkedIn**: [linkedin.com/in/alejandrorodcast](https://www.linkedin.com/in/alejandrorodcast/)
-- **Portafolio:**
+- **Portfolio:**
 ---
 
 
