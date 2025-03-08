@@ -1,4 +1,4 @@
-## Hello! I'm Alejandro Rodriguez! 👋 ## Data Analyst :chart_with_upwards_trend: :bar_chart:
+## Hello! I'm Alejandro Rodriguez! 👋 Data Analyst :chart_with_upwards_trend: :bar_chart:
 
 [![Español](https://img.shields.io/badge/Leer_en_Español-%23E74C3C)](README_ES.md)
 
