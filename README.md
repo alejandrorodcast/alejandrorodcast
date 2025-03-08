@@ -9,8 +9,7 @@ I’m passionate about turning raw data into meaningful stories and actionable s
 Check out my repositories for projects showcasing these skills, and feel free to connect!
 
 - **Email**: [alejandrorodriguezcastro@gmail.com](alejandrorodriguezcastro@gmail.com)
-- **LinkedIn**: [linkedin.com/in/alejandrorodcast](linkedin.com/in/alejandrorodcast)
-  
+- **LinkedIn**: [[linkedin.com/in/alejandrorodcast](https://www.linkedin.com/in/alejandrorodcast/)]
 ---
 
 
