@@ -19,7 +19,6 @@ Check out my repositories for projects showcasing these skills, and feel free to
 
 
 - Statistics for Data Science and Data Analysis.
-- Data Analysis Fundamentals.
 - Data Processing, Cleaning and Management.
 - Interactive Visual Data Interfaces.
 - Linear Data Modeling (in progress).
