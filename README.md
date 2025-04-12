@@ -34,7 +34,7 @@ Check out my repositories for projects showcasing these skills, and feel free to
 
 | **Category**          | **Tools**                                           |
 |-----------------------|-----------------------------------------------------|
-| **Languages**         | Python (Pandas, NumPy), SQL, R                      |
+| **Languages**         | Python (Pandas, NumPy), R                      |
 | **Visualization**     | Tableau, R, Power BI (skill in progress)            |
 | **Cloud**             | Google Cloud Platform (BigQuery)                    |
 | **Development**       | Jupyter Notebooks, Visual Studio Code, GitHub       |
